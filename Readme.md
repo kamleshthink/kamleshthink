@@ -59,7 +59,7 @@ Open Source Contributor, GitHub Developer, Frontend Developer, Backend Developer
 - 🏢 Active contributor at **@AIconsciousness**, **@ACEBITSINDRI**, **@Devcelerate**
 - 💡 Passionate about **Open Source** and **Web3 Technologies**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/kamleshthink)
-- 📫 Reach me at **kamlesh@achhadam.com**
+- 📫 Reach me at **kamleshsamudih@gmail.com**
 - ⚡ Fun fact: **I debug faster with coffee ☕**
 
 <br/>
@@ -347,7 +347,7 @@ Revolutionary **full-stack agriculture platform** connecting:
 - GPS-enabled logistics
 - Multi-language support
 
-**Contributions:** 127+ commits | 74+ commits across repos
+**Contributions:** 205+ commits | 250+ commits across repos
 
 </td>
 <td width="50%" valign="top">
@@ -380,7 +380,7 @@ Modern **construction company website** with:
 <tr>
 <td width="50%" valign="top">
 
-### 👥 [ACEBITS - Civil Engineers Hub](https://acebits.in)
+### 👥 [ACEBITS - Civil Engineers Association Community](https://acebits.in)
 
 <img src="https://img.shields.io/badge/Status-🟢_Live-success?style=flat-square" alt="Live"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -419,7 +419,7 @@ Official platform for **Association of Civil Engineers** at BIT Sindri:
 
 **Highlights:**
 - Low latency control (<50ms)
-- Range: 10+ meters
+- Range: 100+ meters
 - Battery life: 2+ hours
 
 </td>
@@ -545,7 +545,7 @@ Official platform for **Association of Civil Engineers** at BIT Sindri:
 <br/>
 <img src="https://img.shields.io/badge/Joined-October_2025-success?style=flat-square" alt="Joined"/>
 <br/>
-**Role:** Tech Lead
+**Role:**  ace core member Tech Lead
 
 **⚡ [@Devcelerate](https://github.com/Devcelerate)**
 <br/>
@@ -564,16 +564,12 @@ Official platform for **Association of Civil Engineers** at BIT Sindri:
 
 | Repository | Commits |
 |:-----------|:-------:|
-| **acchadam1** | 127 |
+| **acchadam1** | 250+ |
 | **Ramsethu1-Construction** | 83 |
-| **Ramsethu-Construction** | 82 |
-| **Ramsetu_Constructions** | 82 |
-| **Achhadam** | 74 |
-| **DesiDine-foods1** | 18 |
+| **DesiDine-foods1** | 100+ |
 | **Jobportalprof** | 10 |
-| **acebit** | 8 |
-| **jober** | 7 |
-| **Dronevision** | 5 |
+| **acebit** | 250+ |
+| **Khabri** | 50+|
 
 **Total Commits:** 781+
 <br/>
@@ -664,7 +660,7 @@ Leading development of **[Achhadam](https://achhadam.com)** - India's next-gener
 - 🚀 Deployment & DevOps
 
 **Impact:**
-- 127+ commits on main platform
+- 250+ commits on main platform
 - 74+ commits on related projects
 - Multiple feature launches
 - Serving farmers across India
@@ -694,7 +690,7 @@ Building the official platform at **[acebits.in](https://acebits.in)** for civil
 - 1000+ resources shared
 - Active community engagement
 
-<img src="https://img.shields.io/badge/Role-Tech_Lead-00D9FF?style=for-the-badge" alt="Tech Lead"/>
+<img src="https://img.shields.io/badge/Role-Tech_Lead-00D9FF?style=for-the-badge" alt=" ace core member Tech Lead"/>
 
 </td>
 </tr>
